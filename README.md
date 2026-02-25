@@ -23,7 +23,11 @@
 
 Driven by one mission: make functional,open and  affordable humanoid robots a reality, with a 3D printer, a laptop, and an unreasonable amount of conviction.
 
-** Constraints are the engine of innovation.**
+---
+
+### Philosophy
+
+> Constraints are the engine of innovation.
 
 Obsessed with Physical AI, Organic Robotics, Neuroscience, Biocomputing,
 and Quantum Physics. Also pizza. Mostly pizza.
@@ -33,7 +37,7 @@ adventure sports lover 🧗, and a semi-retired weekend football legend ⚽.
 
 ---
 
-### Currently building
+
 
 - 🦾 **[Monolithic Robotics](https://github.com/gigalgi/monolithic-robotics)** — one compliant joint, printed once, scales from fingertip to shoulder. [[Technical Report]](https://github.com/gigalgi/monolithic-robotics/blob/main/docs/umobic-finger-technical-report.pdf)
 - 🖐️ **[open-yta-hand](https://github.com/gigalgi/open-yta-hand)** — underactuated anthropomorphic hand + wrist. 7 DOF per finger, LSTM kinematics, impedance control, ~$8 per finger.
