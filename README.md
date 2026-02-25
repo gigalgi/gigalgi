@@ -17,7 +17,7 @@
 ![3D Printing](https://img.shields.io/badge/-3D%20Printing-F5821F?style=flat-square&logo=printables&logoColor=white)
 ---
 
-**A curious Robotics Scientist. Physical AI Engineer,** Driven by one mission: make functional,open and  affordable humanoid robots a reality, with a 3D printer, a laptop, and an unreasonable amount of conviction.
+**A curious Robotics Scientist & Physical AI Engineer,** Driven by one mission: make functional,open and  affordable humanoid robots a reality, with a 3D printer, a laptop, and an unreasonable amount of conviction.
 
 ### Interests
 
