@@ -11,10 +11,11 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Onshape](https://img.shields.io/badge/-Onshape-4A90D9?style=flat-square&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-C00000?style=flat-square&logoColor=white)
+![3D Printing](https://img.shields.io/badge/-3D%20Printing-F5821F?style=flat-square&logo=printables&logoColor=white)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![3D Printing](https://img.shields.io/badge/-3D%20Printing-F5821F?style=flat-square&logo=printables&logoColor=white)
+
 ---
 
 **A curious Robotics Scientist & Physical AI Engineer,** Driven by one mission: make functional,open and  affordable humanoid robots a reality, with a 3D printer, a laptop, and an unreasonable amount of conviction.
