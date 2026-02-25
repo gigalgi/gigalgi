@@ -23,7 +23,7 @@
 
 Driven by one mission: make functional,open and  affordable humanoid robots a reality, with a 3D printer, a laptop, and an unreasonable amount of conviction.
 
-> Constraints are the engine of innovation.
+** Constraints are the engine of innovation.**
 
 Obsessed with Physical AI, Organic Robotics, Neuroscience, Biocomputing,
 and Quantum Physics. Also pizza. Mostly pizza.
@@ -42,6 +42,11 @@ adventure sports lover 🧗, and a semi-retired weekend football legend ⚽.
 - 🌿 **[open-huca-skin](https://github.com/gigalgi/open-huca-skin)** — open source tactile skin with force and shape sensing, under $10 per finger. Built to be fabricated by anyone, integrated from the ground up into soft/pseudo-rigid robotic structures.
 - 🔧 **Project Tumbaga** *(coming soon)* — type in DOF, range, orientation → get a print-ready compliant joint. No CAD required.
 
+---
+
+### Legacy work
+
+- 🦾 **[MULPOS](https://github.com/gigalgi/mulpos)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — open source prosthetic hand built for accessibility. Functional, affordable, fully 3D printable, biosignal controlled. No proprietary parts. Designed for the Latin American community — documented in Spanish. A future version based on Monolithic Robotics is being considered.
 ---
 
 ### Connect
