@@ -21,7 +21,7 @@
 
 ### Interests
 
-Obsessed with Robotic, Physical AI, Organic Robotics, Neuroscience, Biocomputing,
+Obsessed with Robotics, Physical AI, Organic Robotics, Neuroscience, Biocomputing,
 and Quantum Physics. Also pizza. Mostly pizza.
 
 Outside the lab: dedicated fried chicken connoisseur 🍗, mystery series binge-watcher 🔍,
