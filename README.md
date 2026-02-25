@@ -1,5 +1,4 @@
 # Gilberto Galvis — @gigalgi
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white)
@@ -16,8 +15,8 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/-3D%20Printing-F5821F?style=flat-square&logo=printables&logoColor=white)
-
 ---
+
 **A curious Robotics Scientist. Physical AI Engineer,** Driven by one mission: make functional,open and  affordable humanoid robots a reality, with a 3D printer, a laptop, and an unreasonable amount of conviction.
 
 ### Interests
