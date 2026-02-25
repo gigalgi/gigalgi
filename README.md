@@ -8,6 +8,7 @@
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logo=ultralytics&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Onshape](https://img.shields.io/badge/-Onshape-4A90D9?style=flat-square&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-C00000?style=flat-square&logoColor=white)
