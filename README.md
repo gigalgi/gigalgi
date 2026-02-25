@@ -1,6 +1,8 @@
 # Gilberto Galvis — @gigalgi
 
 **A curious Robotics Scientist. Physical AI Engineer.**
+- Driven by one mission: make functional,open and  affordable humanoid robots a reality, with a 3D printer, a laptop, and an unreasonable amount of conviction.
+
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -20,14 +22,7 @@
 ![3D Printing](https://img.shields.io/badge/-3D%20Printing-F5821F?style=flat-square&logo=printables&logoColor=white)
 
 ---
-
-Driven by one mission: make functional,open and  affordable humanoid robots a reality, with a 3D printer, a laptop, and an unreasonable amount of conviction.
-
----
-
-### Philosophy
-
-> Constraints are the engine of innovation.
+### Interests
 
 Obsessed with Physical AI, Organic Robotics, Neuroscience, Biocomputing,
 and Quantum Physics. Also pizza. Mostly pizza.
@@ -35,9 +30,12 @@ and Quantum Physics. Also pizza. Mostly pizza.
 Outside the lab: dedicated fried chicken connoisseur 🍗, mystery series binge-watcher 🔍,
 adventure sports lover 🧗, and a semi-retired weekend football legend ⚽.
 
+### Philosophy
+
+> Constraints are the engine of innovation.
 ---
 
-
+### Currently building
 
 - 🦾 **[Monolithic Robotics](https://github.com/gigalgi/monolithic-robotics)** — one compliant joint, printed once, scales from fingertip to shoulder. [[Technical Report]](https://github.com/gigalgi/monolithic-robotics/blob/main/docs/umobic-finger-technical-report.pdf)
 - 🖐️ **[open-yta-hand](https://github.com/gigalgi/open-yta-hand)** — underactuated anthropomorphic hand + wrist. 7 DOF per finger, LSTM kinematics, impedance control, ~$8 per finger.
