@@ -20,7 +20,7 @@
 ---
 ### About me
 
-**A curious Robotics Scientist & Physical AI Engineer,** Driven by one mission: make functional,open and  affordable humanoid robots a reality, with a 3D printer, a laptop, and an unreasonable amount of conviction.
+**A curious Robotics Scientist & Physical AI Engineer,** Driven by one mission: make functional, open and  affordable humanoid robots a reality, with a 3D printer, a laptop, and an unreasonable amount of conviction.
 
 Obsessed with Robotics, Physical AI, Organic Robotics, Neuroscience, Biocomputing,
 and Quantum Physics. Also pizza. Mostly pizza.
