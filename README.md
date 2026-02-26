@@ -37,10 +37,10 @@ adventure sports lover 🧗, and a semi-retired weekend football legend ⚽.
 
 - 🦾 **[Monolithic Robotics](https://github.com/gigalgi/monolithic-robotics)** — one compliant joint, printed once, scales from fingertip to shoulder. [[Technical Report]](https://github.com/gigalgi/monolithic-robotics/blob/main/docs/umobic-finger-technical-report.pdf), [[Paper]](https://ieeexplore.ieee.org/document/10773068)
 - 🖐️ **[open-yta-hand](https://github.com/gigalgi/open-yta-hand)** — underactuated anthropomorphic hand + wrist. 7 DOF per finger, LSTM kinematics, impedance control, ~$8 per finger.
-- 🤖 **[open-kumanday-humanoid](https://github.com/gigalgi/open-kumanday-humanoid)** — open humanoid platform. Target cost under $5K. In progress.
-- 🧠 **[open-poporo-vla](https://github.com/gigalgi/open-poporo-vla)** — vision-language-action models that run on hardware people actually own. Edge AI, real robot data, no cloud required. Same mission as the hardware: capable robots shouldn't need a data center.
-- 🌿 **[open-huca-skin](https://github.com/gigalgi/open-huca-skin)** — open source tactile skin with force and shape sensing, under $10 per finger. Built to be fabricated by anyone, integrated from the ground up into soft/pseudo-rigid robotic structures.
-- 🔧 **Project Tumbaga** *(coming soon)* — type in DOF, range, orientation → get a print-ready compliant joint. No CAD required.
+- 🤖 **[open-kumanday-humanoid](https://github.com/gigalgi/open-kumanday-humanoid)** — open humanoid platform. Target cost under $5K. In progress...
+- 🧠 **[open-poporo-vla](https://github.com/gigalgi/open-poporo-vla)** — vision-language-action models that run on hardware people actually own. Edge AI, real robot data, no cloud required. Same mission as the hardware: capable robots shouldn't need a data center. In progress...
+- 🌿 **[open-huca-skin](https://github.com/gigalgi/open-huca-skin)** — open source tactile skin with force and shape sensing, under $10 per finger. Built to be fabricated by anyone, integrated from the ground up into soft/pseudo-rigid robotic structures. In progress...
+- 🔧 **Project Tumbaga** *(coming soon)* — type in DOF, range, orientation → get a print-ready compliant joint. No CAD required. In progress...
 
 ---
 
