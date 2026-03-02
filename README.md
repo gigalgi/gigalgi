@@ -55,3 +55,8 @@ adventure sports lover 🧗, and a semi-retired weekend football legend ⚽.
 [![X](https://img.shields.io/badge/-@gigalgi94-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/gigalgi94)
 [![LinkedIn](https://img.shields.io/badge/-Gilberto_Galvis-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gigalgi)
 [![YouTube](https://img.shields.io/badge/-gigalgi-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@gigalgi)
+
+---
+<small>
+Gilberto Galvis Giraldo M.Sc. Electrical and Computer Engineering — Sungkyunkwan University
+</small>
