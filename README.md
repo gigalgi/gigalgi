@@ -58,5 +58,5 @@ adventure sports lover 🧗, and a semi-retired weekend football legend ⚽.
 
 ---
 <small>
-[^1]Gilberto Galvis Giraldo M.Sc. Electrical and Computer Engineering — Sungkyunkwan University
+[^1]: Gilberto Galvis Giraldo M.Sc. Electrical and Computer Engineering — Sungkyunkwan University
 </small>
