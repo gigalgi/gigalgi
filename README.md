@@ -41,7 +41,7 @@ adventure sports lover 🧗, and a semi-retired weekend football legend ⚽.
 - 🤖 **[open-kumanday-humanoid](https://github.com/gigalgi/open-kumanday-humanoid)** — open humanoid platform. Target cost under $5K. [In progress...]
 - 🧠 **[open-poporo-vla](https://github.com/gigalgi/open-poporo-vla)** — open source vision-language-action model that run on hardware people actually own. Edge AI, real robot data, no cloud required. Same mission as the hardware: capable robots shouldn't need a data center. [In progress...]
 - 🌿 **[open-huca-skin](https://github.com/gigalgi/open-huca-skin)** — open source tactile skin with force and shape sensing, under $10 per finger. Built to be fabricated by anyone, integrated from the ground up into soft/pseudo-rigid robotic structures. [In progress...]
-- 🔧 **Project Tumbaga** *(coming soon)* — type in DOF, range, orientation → get a print-ready compliant joint. No CAD required. [In progress...]
+- 🔧 **Project Tumbaga** *(ongoing)* — type in DOF, base shape, range, orientation → get a print-ready compliant joint. No CAD required.
 
 ---
 
