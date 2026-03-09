@@ -54,6 +54,10 @@ adventure sports lover 🧗, and a semi-retired weekend football legend ⚽.
 - 📹 **[socket-video-streaming](https://github.com/gigalgi/socket-video-streaming)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — low-latency video streaming bridge between Node.js and Python backends.
 - 🖼️ **[air-canvas](https://github.com/gigalgi/air-canvas)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — gesture-based virtual whiteboard using computer vision and air drawing.
 - 💡 **[iot-light-control](https://github.com/gigalgi/iot-light-control)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — ESP32-based IoT light controller with web interface and MQTT support.
+- 🎂 **[remote-candle-blower](https://github.com/gigalgi/remote-birthday-cakecandle)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — blow out a birthday candle over a video call. Microphone + flame sensor + servo-driven fan, triggered by remote audio through the speaker.
+- 📈 **[esp32-crypto-ticker](https://github.com/gigalgi/ESP32_IoT_Crypto_Ticker)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — real-time Binance price ticker on a 16×2 LCD with browser-configurable price alarms and buzzer alerts.
+- 🤖 **[godzilla-sumo](https://github.com/gigalgi/Ardunio_Based_Robot_Sumo)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — autonomous sumo combat robot. 4-wheel drive, quad ultrasonic detection, IMU impact sensing, and energy-aware battery management.
+
 ---
 
 ### Connect
