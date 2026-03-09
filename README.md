@@ -51,9 +51,9 @@ adventure sports lover 🧗, and a semi-retired weekend football legend ⚽.
 - 🦾 **[MULPOS](https://github.com/gigalgi/mulpos)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — open source prosthetic hand built for accessibility. Functional, affordable, fully 3D printable, biosignal controlled. No proprietary parts. Designed for the Latin American community — documented in Spanish. A future version based on Monolithic Robotics is being considered.
 - 📡 **[dsp-arduino-python-fft](https://github.com/gigalgi/dsp-arduino-python-fft)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — real-time FFT signal processing pipeline bridging Arduino sensor data and Python analysis.
 - ⚙️ **[arduino-simple-pid](https://github.com/gigalgi/arduino-simple-pid)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — lightweight PID controller library for Arduino. Clean, minimal, reusable.
-- 📹 **[VideoStreaming-Nodejs-Python](https://github.com/gigalgi/VideoStreaming_Nodejs_Python)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — low-latency video streaming bridge between Node.js and Python backends.
-- 🖼️ **[Virtual-Air-BoardFrame](https://github.com/gigalgi/Virtual_Air_BoardFrame)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — gesture-based virtual whiteboard using computer vision and air drawing.
-- 💡 **[IoT-ESP32-Light-Controller](https://github.com/gigalgi/IoT_ESP32_Light_Controller)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — ESP32-based IoT light controller with web interface and MQTT support.
+- 📹 **[socket-video-streaming](https://github.com/gigalgi/socket-video-streaming)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — low-latency video streaming bridge between Node.js and Python backends.
+- 🖼️ **[air-canvas](https://github.com/gigalgi/air-canvas)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — gesture-based virtual whiteboard using computer vision and air drawing.
+- 💡 **[iot-light-control](https://github.com/gigalgi/iot-light-control)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — ESP32-based IoT light controller with web interface and MQTT support.
 ---
 
 ### Connect
