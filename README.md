@@ -36,18 +36,24 @@ adventure sports lover 🧗, and a semi-retired weekend football legend ⚽.
 ### Currently building
 
 - ⚛︎ **[Monolithic Robotics](https://github.com/gigalgi/monolithic-robotics)** — one compliant joint, printed once, scales from fingertip to shoulder. [[Technical Report]](https://github.com/gigalgi/monolithic-robotics/blob/main/docs/umobic-finger-technical-report.pdf), [[Paper]](https://ieeexplore.ieee.org/document/10773068)
-- 🖐️ **[open-yta-hand](https://github.com/gigalgi/open-yta-hand)** — underactuated anthropomorphic hand + wrist. 7 DOF per finger, LSTM kinematics, impedance control, ~$8 per finger.[Working on version 2...]
-- 🦾  **[open-pquaca-arm](https://github.com/gigalgi/open-pquaca-arm)** — fully open low-cost 5-DOF robotic arm built for natural movement and versatile manipulation. [In progress...]
+- 🖐️ **[open-yta-hand](https://github.com/gigalgi/open-yta-hand)** — underactuated anthropomorphic hand + wrist. 7 DOF per finger, LSTM kinematics, impedance control, ~$8 per finger. [Working on version 2...]
+- 🦾 **[open-pquaca-arm](https://github.com/gigalgi/open-pquaca-arm)** — fully open low-cost 5-DOF robotic arm built for natural movement and versatile manipulation. [In progress...]
 - 🤖 **[open-kumanday-humanoid](https://github.com/gigalgi/open-kumanday-humanoid)** — open humanoid platform. Target cost under $5K. [In progress...]
-- 🧠 **[open-poporo-vla](https://github.com/gigalgi/open-poporo-vla)** — open source vision-language-action model that run on hardware people actually own. Edge AI, real robot data, no cloud required. Same mission as the hardware: capable robots shouldn't need a data center. [In progress...]
 - 🌿 **[open-huca-skin](https://github.com/gigalgi/open-huca-skin)** — open source tactile skin with force and shape sensing, under $10 per finger. Built to be fabricated by anyone, integrated from the ground up into soft/pseudo-rigid robotic structures. [In progress...]
+- 🧠 **[open-poporo-vla](https://github.com/gigalgi/open-poporo-vla)** — biologically-grounded vision-language-action architecture mapping four neurobiological mechanisms from primate cortex onto state-of-the-art robotics AI. Runs on hardware people actually own. No cloud required. [In progress...]
+- 🌎 **[neurosymbolic-vla](https://github.com/gigalgi/neurosymbolic-vla)** — open source VLA architecture combining ontological knowledge graphs with neural foundation models for long-horizon manipulation planning. [In progress...]
+- 🏭 **[open-microfactory](https://github.com/gigalgi/microfactory)** — open source dexterous assembly cell. Bimanual SO-ARM101, Da Vinci-inspired teleoperation, VLA-driven autonomy. Deployable on a workbench or a factory floor. Same hardware, same software stack, any assembly. [In progress...]
 - 🔧 **Project Tumbaga** *(ongoing)* — type in DOF, base shape, range, orientation → get a print-ready compliant joint. No CAD required.
 
 ---
 
 ### Legacy work
-
 - 🦾 **[MULPOS](https://github.com/gigalgi/mulpos)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — open source prosthetic hand built for accessibility. Functional, affordable, fully 3D printable, biosignal controlled. No proprietary parts. Designed for the Latin American community — documented in Spanish. A future version based on Monolithic Robotics is being considered.
+- 📡 **[dsp-arduino-python-fft](https://github.com/gigalgi/dsp-arduino-python-fft)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — real-time FFT signal processing pipeline bridging Arduino sensor data and Python analysis.
+- ⚙️ **[arduino-simple-pid](https://github.com/gigalgi/arduino-simple-pid)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — lightweight PID controller library for Arduino. Clean, minimal, reusable.
+- 📹 **[VideoStreaming-Nodejs-Python](https://github.com/gigalgi/VideoStreaming_Nodejs_Python)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — low-latency video streaming bridge between Node.js and Python backends.
+- 🖼️ **[Virtual-Air-BoardFrame](https://github.com/gigalgi/Virtual_Air_BoardFrame)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — gesture-based virtual whiteboard using computer vision and air drawing.
+- 💡 **[IoT-ESP32-Light-Controller](https://github.com/gigalgi/IoT_ESP32_Light_Controller)** ![Archived](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) — ESP32-based IoT light controller with web interface and MQTT support.
 ---
 
 ### Connect
