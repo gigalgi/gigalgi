@@ -42,7 +42,7 @@ adventure sports lover 🧗, and a semi-retired weekend football legend ⚽.
 - 🌿 **[open-huca-skin](https://github.com/gigalgi/open-huca-skin)** — open source tactile skin with force and shape sensing, under $10 per finger. Built to be fabricated by anyone, integrated from the ground up into soft/pseudo-rigid robotic structures. [In progress...]
 - 🧠 **[open-poporo-vla](https://github.com/gigalgi/open-poporo-vla)** — biologically-grounded vision-language-action architecture mapping four neurobiological mechanisms from primate cortex onto state-of-the-art robotics AI. Runs on hardware people actually own. No cloud required. [In progress...]
 - 🌎 **[neurosymbolic-vla](https://github.com/gigalgi/neurosymbolic-vla)** — open source VLA architecture combining ontological knowledge graphs with neural foundation models for long-horizon manipulation planning. [In progress...]
-- 🏭 **[open-microfactory](https://github.com/gigalgi/microfactory)** — open source dexterous assembly cell. Bimanual SO-ARM101, Da Vinci-inspired teleoperation, VLA-driven autonomy. Deployable on a workbench or a factory floor. Same hardware, same software stack, any assembly. [In progress...]
+- 🏭 **[open-microfactory](https://github.com/gigalgi/open-microfactory)** — open source dexterous assembly cell. Bimanual SO-ARM101, Da Vinci-inspired teleoperation, VLA-driven autonomy. Deployable on a workbench or a factory floor. Same hardware, same software stack, any assembly. [In progress...]
 - 🔧 **Project Tumbaga** *(ongoing)* — type in DOF, base shape, range, orientation → get a print-ready compliant joint. No CAD required.
 
 ---
