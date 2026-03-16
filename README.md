@@ -35,7 +35,7 @@ adventure sports lover 🧗, and a semi-retired weekend football legend ⚽.
 
 ### Currently building...
 
-- ⚛︎ **[Monolithic Robotics](https://github.com/gigalgi/monolithic-robotics)** — one compliant joint, printed once, scales from fingertip to shoulder. [[Technical Report]](https://github.com/gigalgi/monolithic-robotics/blob/main/docs/umobic-finger-technical-report.pdf), [[Paper]](https://ieeexplore.ieee.org/document/10773068)
+- ⚛︎ **[Monolithic Robotics](https://github.com/gigalgi/monolithic-robotics)** — one compliant joint, printed once, scales from fingertip to shoulder. [[Technical Report]](https://github.com/gigalgi/monolithic-robotics/blob/main/docs/umobic-finger-technical-report.pdf), [[Paper]](https://ieeexplore.ieee.org/document/10773068), [[Master's Thesis]](https://dcollection.skku.edu/srch/srchDetail/000000181091?localeParam=en)
 - 🖐️ **[open-yta-hand](https://github.com/gigalgi/open-yta-hand)** — underactuated anthropomorphic hand + wrist. 7 DOF per finger, LSTM kinematics, impedance control, ~$8 per finger. [Working on version 2...]
 - 🦾 **[open-pquaca-arm](https://github.com/gigalgi/open-pquaca-arm)** — fully open low-cost 5-DOF robotic arm built for natural movement and versatile manipulation. [In progress...]
 - 🤖 **[open-kumanday-humanoid](https://github.com/gigalgi/open-kumanday-humanoid)** — open humanoid platform. Target cost under $5K. [In progress...]
