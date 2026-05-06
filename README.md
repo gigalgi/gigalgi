@@ -22,6 +22,8 @@
 
 **A curious Robotics Scientist & Physical AI Engineer,** Driven by one mission: make functional, open and  affordable humanoid robots a reality, with a 3D printer, a laptop, and an unreasonable amount of conviction.
 
+As an engineer focused on robot design and robot learning, I believe the future belongs to systems where mechanical intelligence and artificial intelligence co-create real physical intelligence.
+
 Obsessed with Robotics, Physical AI, Organic Robotics, Neuroscience, Biocomputing,
 and Quantum Physics. Also pizza. Mostly pizza.
 
@@ -34,7 +36,7 @@ adventure sports lover 🧗, and a semi-retired weekend football legend ⚽.
 ---
 
 ### Currently building...
-
+- 🏭 **[open-microfactory](https://github.com/gigalgi/open-microfactory)** — open source dexterous assembly cell. Bimanual SO-ARM101, Da Vinci-inspired teleoperation, VLA-driven autonomy. Deployable on a workbench or a factory floor. Same hardware, same software stack, any assembly. [In progress...]
 - ⚛︎ **[Monolithic Robotics](https://github.com/gigalgi/monolithic-robotics)** — one compliant joint, printed once, scales from fingertip to shoulder. [[Technical Report]](https://github.com/gigalgi/monolithic-robotics/blob/main/docs/umobic-finger-technical-report.pdf), [[Paper]](https://ieeexplore.ieee.org/document/10773068), [[Master's Thesis]](https://dcollection.skku.edu/srch/srchDetail/000000181091?localeParam=en)
 - 🖐️ **[open-yta-hand](https://github.com/gigalgi/open-yta-hand)** — underactuated anthropomorphic hand + wrist. 7 DOF per finger, LSTM kinematics, impedance control, ~$8 per finger. [Working on version 2...]
 - 🦾 **[open-pquaca-arm](https://github.com/gigalgi/open-pquaca-arm)** — fully open low-cost 5-DOF robotic arm built for natural movement and versatile manipulation. [In progress...]
@@ -42,7 +44,6 @@ adventure sports lover 🧗, and a semi-retired weekend football legend ⚽.
 - 🌿 **[open-huca-skin](https://github.com/gigalgi/open-huca-skin)** — open source tactile skin with force and shape sensing, under $10 per finger. Built to be fabricated by anyone, integrated from the ground up into soft/pseudo-rigid robotic structures. [In progress...]
 - 🧠 **[open-poporo-vla](https://github.com/gigalgi/open-poporo-vla)** — biologically-grounded vision-language-action architecture mapping four neurobiological mechanisms from primate cortex onto state-of-the-art robotics AI. Runs on hardware people actually own. No cloud required. [In progress...]
 - 🌎 **[neurosymbolic-vla](https://github.com/gigalgi/neurosymbolic-vla)** — open source VLA architecture combining ontological knowledge graphs with neural foundation models for long-horizon manipulation planning. [In progress...]
-- 🏭 **[open-microfactory](https://github.com/gigalgi/open-microfactory)** — open source dexterous assembly cell. Bimanual SO-ARM101, Da Vinci-inspired teleoperation, VLA-driven autonomy. Deployable on a workbench or a factory floor. Same hardware, same software stack, any assembly. [In progress...]
 - 🔧 **Project Tumbaga** *(ongoing)* — type in DOF, base shape, range, orientation → get a print-ready compliant joint. No CAD required.
 
 ---
