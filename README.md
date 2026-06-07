@@ -22,7 +22,7 @@
 
 **A curious Robotics Scientist & Physical AI Engineer,** Driven by one mission: make functional, open and  affordable humanoid robots a reality, with a 3D printer, a laptop, and an unreasonable amount of conviction.
 
-As an engineer focused on robot design and robot learning, I believe the future belongs to systems where mechanical intelligence and artificial intelligence co-create real physical intelligence.
+As an engineer focused on robot learning and robot design, I believe the future belongs to systems where mechanical intelligence and artificial intelligence co-create real physical intelligence.
 
 Obsessed with Robotics, Physical AI, Organic Robotics, Neuroscience, Biocomputing,
 and Quantum Physics. Also pizza. Mostly pizza.
